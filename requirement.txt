@@ -1,0 +1,4 @@
+pandas
+plotly
+streamlit
+google-api-python-client
