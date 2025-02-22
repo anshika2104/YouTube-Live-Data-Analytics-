@@ -4,11 +4,11 @@ import googleapiclient.discovery
 import os.path
 import streamlit as st
 
-API_KEY='AIzaSyDYl-35GFZR3Lwou9GMZYlPEbpvIg1v7QU'
+#API_KEY='AIzaSyDYl-35GFZR3Lwou9GMZYlPEbpvIg1v7QU'
 # channel_username = "@csjmu"
 api_service_name = "youtube"
 api_version = "v3"
-DEVELOPER_KEY = "AIzaSyDYl-35GFZR3Lwou9GMZYlPEbpvIg1v7QU"
+#DEVELOPER_KEY = "AIzaSyDYl-35GFZR3Lwou9GMZYlPEbpvIg1v7QU"
 channel_id = 'UCXmhWnOP5IPSR59bdSLglyA'
 videoIds = []
 
